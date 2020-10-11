@@ -1,6 +1,6 @@
 .body{
     width: 1200px;
-    height: 750px;
+    height: 690px;
     /*background-color: gray;*/
     position: relative;
     border: 8px ridge  ;
@@ -20,7 +20,7 @@
 }
 .container{
     width: 700px;
-    height: 500px;
+    height: 420px;
     background-color: white;
     position: absolute;
     left: 3.5%;
@@ -29,7 +29,7 @@
 }
 .user{
     width: 350px;
-    height: 450px;
+    height: 420px;
     /*background-color: black;*/
     position: absolute;
     right: 4.2%;
@@ -51,9 +51,9 @@
     
 }
 h1{
-    color: green;
+    color;
     position: absolute;
-    right: 1%;
+    left: 200px;
 }
 
 table,tr,th,td{
@@ -62,8 +62,8 @@ table,tr,th,td{
 }
 table{
     position: absolute;
-    top: 2px;
-    left: 2px;
+    bottom: 25px;
+    left: 25px;
 }
 .textnavegacion{
     font-size: smaller;
