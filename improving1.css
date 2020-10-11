@@ -1,6 +1,6 @@
 .body{
     width: 1200px;
-    height: 700px;
+    height: 750px;
     /*background-color: gray;*/
     position: relative;
     border: 8px ridge  ;
@@ -20,7 +20,7 @@
 }
 .container{
     width: 700px;
-    height: 450px;
+    height: 500px;
     background-color: white;
     position: absolute;
     left: 3.5%;
@@ -39,10 +39,16 @@
 .navegacion{
     width: 550px;
     height: 70px;
-        position: absolute;
+    position: absolute;
     right: 4%;
     bottom: 10%;
     border: double;
+    background-color: whitesmoke;
+    font-size: 40px;
+    background-image: url("./bandera.jpg");
+    background-position: center center;
+    background-size: 800px 80px;
+    
 }
 h1{
     color: green;
@@ -58,5 +64,18 @@ table{
     position: absolute;
     top: 2px;
     left: 2px;
+}
+.textnavegacion{
+    font-size: smaller;
+    position: relative;
+    background-position: center;
+    bottom: 15px;
+    left: 80px;
+    color: cornsilk;
+}
+.pagopsebancolombia{
+    position: absolute;
+    bottom: 2px;
+    right: 2px;
 }
 
